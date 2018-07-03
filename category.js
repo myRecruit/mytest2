@@ -21,7 +21,8 @@ $(document).on("click",".category_filter a.more",function(){
 		}
 });
 
-// --- this is a git test  
+// --- this is a git test
+//-- this is another test
 
 
 if($(".good_box_min,.good_box_max").length>0 && !$(".good_box_min,.good_box_max").hasClass("clothing_isfashion")){
